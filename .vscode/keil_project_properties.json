@@ -1,0 +1,12 @@
+{
+    "workspace": {
+        "projects": [
+            {
+                "path": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\Project\\mdk\\seekfree.uvproj",
+                "active": true,
+                "closed": false,
+                "activeTarget": "STC32G"
+            }
+        ]
+    }
+}

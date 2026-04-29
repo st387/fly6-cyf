@@ -1,0 +1,60 @@
+{
+    "configurations": [
+        {
+            "name": "STC32G",
+            "includePath": [
+                "D:\\Keil\\C251\\INC",
+                "..\\libraries\\zf_common",
+                "..\\libraries\\zf_components",
+                "..\\libraries\\zf_device",
+                "..\\libraries\\zf_driver",
+                "user",
+                "code"
+            ],
+            "defines": [
+                "__C251__",
+                "__VSCODE_C251__",
+                "reentrant=",
+                "compact=",
+                "small=",
+                "large=",
+                "data=",
+                "idata=",
+                "pdata=",
+                "bdata=",
+                "edata=",
+                "xdata=",
+                "code=",
+                "bit=char",
+                "sbit=char",
+                "sfr=char",
+                "sfr16=int",
+                "sfr32=int",
+                "interrupt=",
+                "using=",
+                "far=",
+                "_at_=",
+                "_priority_=",
+                "_task_="
+            ],
+            "intelliSenseMode": "${default}",
+            "browse": {
+                "path": [
+                    "D:\\Keil\\C251\\INC",
+                    "..\\libraries\\zf_common",
+                    "..\\libraries\\zf_components",
+                    "..\\libraries\\zf_device",
+                    "..\\libraries\\zf_driver",
+                    "user",
+                    "code"
+                ],
+                "limitSymbolsToIncludedHeaders": false,
+                "databaseFilename": ""
+            },
+            "compilerPath": "c251",
+            "compileCommands": "d:\\CYT4BB7\\fly4-zky\\compile_commands.json"
+        }
+    ],
+    "version": 4,
+    "enableConfigurationSquiggles": true
+}

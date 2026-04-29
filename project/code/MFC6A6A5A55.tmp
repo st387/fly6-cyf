@@ -1,0 +1,12 @@
+#include "zf_common_headfile.h"
+
+
+
+void motor_init(void)
+{
+   pwm_init(TCPWM_CH09_P05_0 , 50, 0);  
+   pwm_init(TCPWM_CH10_P05_1 , 50, 0);  
+   pwm_init(TCPWM_CH24_P09_0 , 50, 0);  
+   pwm_init(TCPWM_CH25_P09_1 , 50, 0);  
+}
+

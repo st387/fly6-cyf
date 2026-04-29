@@ -1,0 +1,202 @@
+[
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_common\\zf_common_clock.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_common\\zf_common_clock.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_common\\zf_common_debug.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_common\\zf_common_debug.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_common\\zf_common_fifo.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_common\\zf_common_fifo.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_common\\zf_common_font.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_common\\zf_common_font.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_common\\zf_common_function.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_common\\zf_common_function.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_common\\zf_common_typedef.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_common\\zf_common_typedef.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_common\\zf_common_interrupt.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_common\\zf_common_interrupt.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_adc.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_adc.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_delay.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_delay.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_eeprom.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_eeprom.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_encoder.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_encoder.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_exti.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_exti.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_gpio.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_gpio.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_pit.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_pit.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_pwm.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_pwm.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_soft_iic.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_soft_iic.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_soft_spi.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_soft_spi.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_spi.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_spi.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_timer.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_timer.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_uart.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_driver\\zf_driver_uart.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_ble6a20.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_ble6a20.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_dl1a.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_dl1a.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_dl1b.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_dl1b.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_gps_tau1201.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_gps_tau1201.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_icm20602.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_icm20602.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_imu660ra.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_imu660ra.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_imu660rb.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_imu660rb.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\Libraries\\zf_device\\zf_device_imu660rc.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\Libraries\\zf_device\\zf_device_imu660rc.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_imu963ra.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_imu963ra.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_ips114.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_ips114.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_ips200.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_ips200.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\Libraries\\zf_device\\zf_device_ips200pro.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\Libraries\\zf_device\\zf_device_ips200pro.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_tft180.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_tft180.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_tsl1401.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_tsl1401.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_type.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_type.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_wireless_uart.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_device\\zf_device_wireless_uart.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_components\\seekfree_assistant.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_components\\seekfree_assistant.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_components\\seekfree_assistant_interface.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\libraries\\zf_components\\seekfree_assistant_interface.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\Project\\user\\isr.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\Project\\user\\isr.c\""
+  },
+  {
+    "directory": "d:\\CYT4BB7\\fly4-zky",
+    "file": "c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\Project\\user\\main.c",
+    "command": "c251 -I D:\\Keil\\C251\\INC -I ..\\libraries\\zf_common -I ..\\libraries\\zf_components -I ..\\libraries\\zf_device -I ..\\libraries\\zf_driver -I user -I code -D__C251__ -D__VSCODE_C251__ -Dreentrant= -Dcompact= -Dsmall= -Dlarge= -Ddata= -Didata= -Dpdata= -Dbdata= -Dedata= -Dxdata= -Dcode= -Dbit=char -Dsbit=char -Dsfr=char -Dsfr16=int -Dsfr32=int -Dinterrupt= -Dusing= -Dfar= -D_at_= -D_priority_= -D_task_=  -c \"c:\\Users\\ss\\Desktop\\foc-STC32G12K128\\Project\\user\\main.c\""
+  }
+]
